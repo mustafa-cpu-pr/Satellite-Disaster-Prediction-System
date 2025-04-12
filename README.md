@@ -53,7 +53,7 @@ This web integration will allow the system to serve as a robust platform accessi
 
 ## Development Team
 
-- **Mustafa** - Lead Developer and System Architect
+- **Mustafa** - Lead Developer 
 
 ---
 
